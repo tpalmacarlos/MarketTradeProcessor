@@ -1,0 +1,3 @@
+[submodule "site/testsm"]
+	path = site/testsm
+	url = https://github.com/tpalmacarlos/test
